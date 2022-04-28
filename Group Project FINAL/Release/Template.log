@@ -1,0 +1,96 @@
+﻿Build started 5/11/2015 1:13:09 PM.
+     1>Project "C:\Users\Manuel\Documents\AGK\apps\Group Projet FINAL\Template.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\..\common\Include /I..\..\common /nologo /W3 /WX- /Ox /Ob2 /Oi /Ot /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D IDE_VS2008 /D _CRT_SECURE_NO_WARNINGS /D _USING_V110_SDK71_ /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Core.cpp main.cpp
+         Core.cpp
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(36): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(38): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(38): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(54): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(64): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(64): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(75): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(75): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(136): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(150): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(232): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(233): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(234): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(235): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(236): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(237): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(238): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(239): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(250): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(251): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(261): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(262): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(263): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(264): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(265): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(266): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(267): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(268): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(269): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(319): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(319): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\menu.h(83): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\manuel\documents\agk\apps\group projet final\player.h(92): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\player.h(97): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\player.h(102): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\mechanics.h(141): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\mechanics.h(271): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\manuel\documents\agk\apps\group projet final\mechanics.h(272): warning C4305: 'argument' : truncation from 'double' to 'float'
+         main.cpp
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(36): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(38): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(38): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(54): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(64): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(64): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(75): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(75): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(136): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(150): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(232): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(233): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(234): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(235): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(236): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(237): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(238): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(239): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(250): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(251): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(261): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(262): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(263): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(264): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(265): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(266): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(267): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(268): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(269): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(319): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\level.h(319): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\menu.h(83): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\manuel\documents\agk\apps\group projet final\player.h(92): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\player.h(97): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\player.h(102): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\mechanics.h(141): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\manuel\documents\agk\apps\group projet final\mechanics.h(271): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\manuel\documents\agk\apps\group projet final\mechanics.h(272): warning C4305: 'argument' : truncation from 'double' to 'float'
+         Generating Code...
+     1>c:\users\manuel\documents\agk\apps\group projet final\player.h(85): warning C4715: 'Player::PlayerDeath' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Final\Permafrost.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\platform\windows\Lib\VS2013\Release AGKWindows.lib OpenGL32.lib Winmm.lib dwmapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Delayimp.lib /DELAYLOAD:Dwmapi.dll /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"Final\Permafrost.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Final\Permafrost.lib" /MACHINE:X86 /SAFESEH:NO Release\Core.obj
+         Release\main.obj
+         Template.vcxproj -> C:\Users\Manuel\Documents\AGK\apps\Group Projet FINAL\Final\Permafrost.exe
+     1>Done Building Project "C:\Users\Manuel\Documents\AGK\apps\Group Projet FINAL\Template.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.27
